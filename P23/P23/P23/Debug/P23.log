@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\p23\source\main.c(12): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\p23\source\main.c(13): warning C4013: 'rollDice' 未定義; 假設 extern 傳回整數
+  P23.vcxproj -> C:\Users\naisy\OneDrive\桌面\110360231_陳廼軒\P23\P23\Debug\P23.exe
