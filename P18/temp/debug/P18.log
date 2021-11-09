@@ -1,7 +1,5 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
   main.c
-c:\users\naisy\onedrive\桌面\110360231_陳廼軒\p18\source\main.c(12): warning C4047: '函式': 'rsize_t' 與 'char [60]' 間接取值的層級不同
-c:\users\naisy\onedrive\桌面\110360231_陳廼軒\p18\source\main.c(12): warning C4024: 'strcpy_s': 型式和實質參數 2 不同的類型
-c:\users\naisy\onedrive\桌面\110360231_陳廼軒\p18\source\main.c(12): error C2198: 'strcpy_s': 呼叫的引數太少
-c:\users\naisy\onedrive\桌面\110360231_陳廼軒\p18\source\main.c(19): warning C4098: 'main': 'void' 函式正在傳回值
+c:\users\naisy\onedrive\桌面\110360231_陳廼軒\p18\source\main.c(20): warning C4098: 'main': 'void' 函式正在傳回值
+  P18.vcxproj -> C:\Users\naisy\OneDrive\桌面\110360231_陳廼軒\P18\P18\P18\..\..\temp\debug\P18.exe

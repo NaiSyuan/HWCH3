@@ -1,15 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#pragma warning(disable:4996)
 
 void main(void)
 {
-	char string1[60] = "Welcome";
-	char string2[60];
-
+	char  string1[60] = "Welcome";
+	char  string2[60];
 	int len;
 
-	strcpy_s(string2, string1);
+
+	strcpy(string2,string1);
 	printf("string2=%s\n", string2);
 
 	len = strlen(string2);
